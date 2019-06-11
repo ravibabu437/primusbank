@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Resource.AppTest" duration-ms="8055" started-at="2019-06-11T04:14:42Z" finished-at="2019-06-11T04:14:50Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="8055" started-at="2019-06-11T04:14:42Z" finished-at="2019-06-11T04:14:50Z">
+      <class name="Resource.AppTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Resource.AppTest@21bcffb5]" name="setup" is-config="true" duration-ms="5494" started-at="2019-06-11T04:14:42Z" finished-at="2019-06-11T04:14:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Resource.AppTest@21bcffb5]" name="login" duration-ms="555" started-at="2019-06-11T04:14:47Z" finished-at="2019-06-11T04:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logotest()[pri:0, instance:Resource.AppTest@21bcffb5]" name="logotest" duration-ms="320" started-at="2019-06-11T04:14:48Z" finished-at="2019-06-11T04:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logotest -->
+        <test-method status="PASS" signature="titletest()[pri:0, instance:Resource.AppTest@21bcffb5]" name="titletest" duration-ms="4" started-at="2019-06-11T04:14:48Z" finished-at="2019-06-11T04:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titletest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Resource.AppTest@21bcffb5]" name="close" is-config="true" duration-ms="1653" started-at="2019-06-11T04:14:48Z" finished-at="2019-06-11T04:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Resource.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Resource.AppTest -->
+</testng-results>
