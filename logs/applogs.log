@@ -1,0 +1,57 @@
+2019-02-14 15:59:48,569  INFO [main] Apptest:26 Set the location of the driver path
+2019-02-14 15:59:53,355  INFO [main] Apptest:28 Launch firefox browser
+2019-02-14 15:59:53,366  INFO [main] Apptest:31 Maximize the browser window
+2019-02-14 15:59:53,373  INFO [main] Apptest:33 Delete All cookies present in firefox browser
+2019-02-14 15:59:53,384  INFO [main] Apptest:35 Please wait 20 seconds,the page will be loaded
+2019-02-14 15:59:55,316  INFO [main] Apptest:37 Launch the Primus bank Aplication
+2019-02-14 15:59:55,397  INFO [main] Apptest:47 Enter the correct username
+2019-02-14 15:59:55,420  INFO [main] Apptest:49 Enter correct password
+2019-02-14 15:59:55,615  INFO [main] Apptest:51 Click on Submit button
+2019-02-14 15:59:55,705  INFO [main] Apptest:69 logo displayed in homepage
+2019-02-14 15:59:55,707  INFO [main] Apptest:71 logo displayed,success
+2019-02-14 15:59:55,713  INFO [main] Apptest:59 Capture the title of the pagePrimus BANK
+2019-02-14 15:59:55,713  INFO [main] Apptest:61 Title matched,test pass
+2019-02-14 16:00:20,236  INFO [main] Apptest:26 Set the location of the driver path
+2019-02-14 16:00:24,987  INFO [main] Apptest:28 Launch firefox browser
+2019-02-14 16:00:24,996  INFO [main] Apptest:31 Maximize the browser window
+2019-02-14 16:00:25,002  INFO [main] Apptest:33 Delete All cookies present in firefox browser
+2019-02-14 16:00:25,009  INFO [main] Apptest:35 Please wait 20 seconds,the page will be loaded
+2019-02-14 16:00:25,526  INFO [main] Apptest:37 Launch the Primus bank Aplication
+2019-02-14 16:00:25,597  INFO [main] Apptest:47 Enter the correct username
+2019-02-14 16:00:25,621  INFO [main] Apptest:49 Enter correct password
+2019-02-14 16:00:25,821  INFO [main] Apptest:51 Click on Submit button
+2019-02-14 16:00:25,937  INFO [main] Apptest:69 logo displayed in homepage
+2019-02-14 16:00:25,939  INFO [main] Apptest:71 logo displayed,success
+2019-02-14 16:00:25,949  INFO [main] Apptest:59 Capture the title of the pagePrimus BANK
+2019-02-14 16:00:25,950  INFO [main] Apptest:61 Title matched,test pass
+02-14-2019 16:02:09 {ISO8601}  INFO [main] Apptest:26 Set the location of the driver path
+02-14-2019 16:02:14 {ISO8601}  INFO [main] Apptest:28 Launch firefox browser
+02-14-2019 16:02:14 {ISO8601}  INFO [main] Apptest:31 Maximize the browser window
+02-14-2019 16:02:14 {ISO8601}  INFO [main] Apptest:33 Delete All cookies present in firefox browser
+02-14-2019 16:02:14 {ISO8601}  INFO [main] Apptest:35 Please wait 20 seconds,the page will be loaded
+02-14-2019 16:02:15 {ISO8601}  INFO [main] Apptest:37 Launch the Primus bank Aplication
+02-14-2019 16:02:15 {ISO8601}  INFO [main] Apptest:47 Enter the correct username
+02-14-2019 16:02:15 {ISO8601}  INFO [main] Apptest:49 Enter correct password
+02-14-2019 16:02:15 {ISO8601}  INFO [main] Apptest:51 Click on Submit button
+02-14-2019 16:02:15 {ISO8601}  INFO [main] Apptest:69 logo displayed in homepage
+02-14-2019 16:02:15 {ISO8601}  INFO [main] Apptest:71 logo displayed,success
+02-14-2019 16:02:15 {ISO8601}  INFO [main] Apptest:59 Capture the title of the pagePrimus BANK
+02-14-2019 16:02:15 {ISO8601}  INFO [main] Apptest:61 Title matched,test pass
+2019-06-11 09:43:13,755  INFO [main] Apptest:26 Set the location of the driver path
+2019-06-11 09:43:26,154  INFO [main] Apptest:28 Launch firefox browser
+2019-06-11 09:43:26,270  INFO [main] Apptest:31 Maximize the browser window
+2019-06-11 09:43:26,276  INFO [main] Apptest:33 Delete All cookies present in firefox browser
+2019-06-11 09:43:26,285  INFO [main] Apptest:35 Please wait 20 seconds,the page will be loaded
+2019-06-11 09:44:42,323  INFO [main] Apptest:26 Set the location of the driver path
+2019-06-11 09:44:47,007  INFO [main] Apptest:28 Launch firefox browser
+2019-06-11 09:44:47,020  INFO [main] Apptest:31 Maximize the browser window
+2019-06-11 09:44:47,025  INFO [main] Apptest:33 Delete All cookies present in firefox browser
+2019-06-11 09:44:47,031  INFO [main] Apptest:35 Please wait 20 seconds,the page will be loaded
+2019-06-11 09:44:47,689  INFO [main] Apptest:37 Launch the Primus bank Aplication
+2019-06-11 09:44:47,849  INFO [main] Apptest:47 Enter the correct username
+2019-06-11 09:44:47,873  INFO [main] Apptest:49 Enter correct password
+2019-06-11 09:44:48,268  INFO [main] Apptest:51 Click on Submit button
+2019-06-11 09:44:48,589  INFO [main] Apptest:69 logo displayed in homepage
+2019-06-11 09:44:48,591  INFO [main] Apptest:71 logo displayed,success
+2019-06-11 09:44:48,595  INFO [main] Apptest:59 Capture the title of the pagePrimus BANK
+2019-06-11 09:44:48,595  INFO [main] Apptest:61 Title matched,test pass
